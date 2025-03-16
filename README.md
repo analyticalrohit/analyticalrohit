@@ -11,7 +11,6 @@
 🤖 Machine Learning / Deep Learning  
 🧠 Natural Language Processing (NLP)  
 ✨ Generative AI, LLMs, and Agents  
-📊 Data Analysis & Visualization  
 📸 Computer Vision 
 
 <h3 align="left">🌐 Connect with me</h3>
