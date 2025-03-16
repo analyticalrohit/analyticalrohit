@@ -2,9 +2,9 @@
 
 <h1 align="center">Hi, I'm Rohit👋</h1>
 
-🔭 A Senior Data Scientist with a decade of experience.
-🌱 AI/ML expert for Telecom, Aerospace, Food Safety & Automotive industries.
-⚡ I specialize in building NLP and Computer Vision solutions.
+🔭 A Senior Data Scientist with a decade of experience.  
+🌱 AI/ML expert for Telecom, Aerospace, Food Safety & Automotive industries.  
+⚡ I specialize in building NLP and Computer Vision solutions.  
 
 <h3 align="left">🚀 What I Do</h3>
 
