@@ -15,7 +15,7 @@
 
 <h3 align="left">🌐 Connect with me</h3>
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white" width="100" height="35" />](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=analyticalrohit) [<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" width="100" height="35" />](https://www.youtube.com/@analyticalrohit?sub_confirmation=1) [<img src="https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=white" width="100" height="35" />](https://awesomeneuron.substack.com/) [<img src="./assets/topmate_logo.png" width="100" height="35" />](https://topmate.io/analyticalrohit)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white" width="100" height="35" />](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=analyticalrohit) [<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" width="100" height="35" />](https://www.youtube.com/@awesomeneuron?sub_confirmation=1) [<img src="https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=white" width="100" height="35" />](https://awesomeneuron.substack.com/) [<img src="./assets/topmate_logo.png" width="100" height="35" />](https://topmate.io/analyticalrohit)
 
 <!-- <h3 align="left">📊 GitHub Stats</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=analyticalrohit&show_icons=true&theme=radical" alt="analyticalrohit"/></p> -->
