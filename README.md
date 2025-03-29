@@ -13,9 +13,9 @@
 ✨ Generative AI, LLMs, and Agents  
 📸 Computer Vision 
 
-<h3 align="left">📬 AwesomeNeuron Newsletter</h3>
+<h3 align="left">📬 Newsletter</h3>
 
-[<img src="./assets/awesomeneuron.png" width="150" height="150" style="margin-left: 40px;" />](https://awesomeneuron.substack.com/)
+[<img src="./assets/awesomeneuron.png"/>](https://awesomeneuron.substack.com/)
 
 <h3 align="left">🌐 Connect with me</h3>
 
