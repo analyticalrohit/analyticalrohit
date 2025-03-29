@@ -15,7 +15,7 @@
 
 <h3 align="left">📬 Newsletter</h3>
 
-[<img src="./assets/awesomeneuron.png"/>](https://awesomeneuron.substack.com/)
+[<img src="./assets/awesomeneuron_logo.png"/>](https://awesomeneuron.substack.com/)
 
 <h3 align="left">🌐 Connect with me</h3>
 
