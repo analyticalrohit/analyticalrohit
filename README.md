@@ -30,17 +30,17 @@
 ✅ Learn AI for FREE with visuals, easy-to-follow insights.<br>
 ✅ Get cutting-edge topics like GenAI, RAGs, and LLMs in your inbox every week.
 </div>
-
+<br>
 <div style="text-align: left;">
     <a href="https://awesomeneuron.substack.com/">
         <img src="./assets/awesomeneuron_logo.png" alt="AwesomeNeuron Newsletter">
 </div>
 <br>
-<div style="text-align: center;">
-    <a href="https://awesomeneuron.substack.com/">
-        <img src="./assets/awesomeneuron_blog.gif" alt="AwesomeNeuron Newsletter">
-    </a>
-</div>
+<p align="center">
+  <a href="https://awesomeneuron.substack.com/">
+    <img src="./assets/awesomeneuron_blog.gif" alt="AwesomeNeuron Newsletter">
+  </a>
+</p>
 
 <h3 align="left">📊 GitHub Stats</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=analyticalrohit&show_icons=true&theme=radical" alt="analyticalrohit"/></p>
