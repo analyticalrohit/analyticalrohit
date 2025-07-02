@@ -25,16 +25,15 @@
 
 </div>
 
-<div align="left">
-📌 Join 1500+ ML enthusiasts and professionals from 90 countries.
-
-✅ Learn AI for FREE with visuals, easy-to-follow insights.
+<div style="text-align: left;">
+📌 Join 1500+ ML enthusiasts and professionals from 90 countries.<br>
+✅ Learn AI for FREE with visuals, easy-to-follow insights.<br>
 ✅ Get cutting-edge topics like GenAI, RAGs, and LLMs in your inbox every week.
 </div>
 
 <div style="text-align: left;">
     <a href="https://awesomeneuron.substack.com/">
-        <img src="./assets/awesomeneuron_logo.png" width="800" height="200" alt="AwesomeNeuron Newsletter">
+        <img src="./assets/awesomeneuron_logo.png" alt="AwesomeNeuron Newsletter">
 </div>
 
 <div style="text-align: left;">
