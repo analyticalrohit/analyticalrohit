@@ -36,7 +36,7 @@
         <img src="./assets/awesomeneuron_logo.png" alt="AwesomeNeuron Newsletter">
 </div>
 
-<div style="text-align: left;">
+<div style="text-align: center;">
     <a href="https://awesomeneuron.substack.com/">
         <img src="./assets/awesomeneuron_blog.gif" alt="AwesomeNeuron Newsletter">
     </a>
