@@ -20,16 +20,16 @@
   </a>
 </p>
 
-🔭 A Senior Data Scientist with a decade of experience.
-🌱 AI/ML expert for Telecom, Aerospace, Food Safety & Automotive industries.
-⚡ I specialize in building NLP and Computer Vision solutions.
+🔭 A Senior Data Scientist with a decade of experience.  
+🌱 AI/ML expert for Telecom, Aerospace, Food Safety & Automotive industries.  
+⚡ I specialize in building NLP and Computer Vision solutions.  
 
 <h3 align="left">🚀 What I Do</h3>
 
-🤖 Machine Learning / Deep Learning
-🧠 Natural Language Processing (NLP)
-✨ Generative AI, LLMs, and Agents
-📸 Computer Vision
+🤖 Machine Learning / Deep Learning  
+🧠 Natural Language Processing (NLP)  
+✨ Generative AI, LLMs, and Agents  
+📸 Computer Vision 
 
 <h3 align="left">📬 Newsletter</h3>
 
