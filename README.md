@@ -35,18 +35,17 @@
 
 <h3 align="left">📬 Newsletter</h3>
 
-<div align="left">
-
-[![Subscribe to AwesomeNeuron Newsletter](./assets/subscribe_button.svg)](https://awesomeneuron.substack.com/)
-
-</div>
-
 <div style="text-align: left;">
-📌 Join 1500+ ML enthusiasts and professionals from 90 countries.<br>
+📌 Join 1800+ ML enthusiasts and professionals from 90 countries.<br>
 ✅ Learn AI for FREE with visuals, easy-to-follow insights.<br>
 ✅ Get cutting-edge topics like GenAI, RAGs, and LLMs in your inbox every week.
 </div>
 <br>
+<div align="center">
+
+[![Subscribe to AwesomeNeuron Newsletter](./assets/subscribe_button.svg)](https://awesomeneuron.substack.com/)
+
+</div>
 <div style="text-align: left;">
     <a href="https://awesomeneuron.substack.com/">
         <img src="./assets/awesomeneuron_logo.png" alt="AwesomeNeuron Newsletter">
