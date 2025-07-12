@@ -15,7 +15,24 @@
 
 <h3 align="left">🌐 Socials</h3>
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white" width="100" height="35" />](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=analyticalrohit) [<img src="https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=white" width="100" height="35" />](https://substack.com/@analyticalrohit) [<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" width="100" height="35" />](https://x.com/_rohit_tiwari_) [<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" width="100" height="35" />](https://www.youtube.com/@awesomeneuron?sub_confirmation=1) [<img src="./assets/topmate_logo.png" width="100" height="35" />](https://topmate.io/analyticalrohit) [<img src="./assets/awesomeneuron_logo.png" width="100" height="35" />](https://awesomeneuron.substack.com/)
+<p align="left">
+  <a href="www.linkedin.com/in/analyticalrohit">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://awesomeneuron.substack.com/">
+    <img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719" alt="Substack">
+  </a>
+   <a href="https://x.com/_rohit_tiwari_">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
+  </a>
+     <a href="https://www.youtube.com/@awesomeneuron?sub_confirmation=1">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube">
+  </a>
+    </a>
+     <a href="https://topmate.io/analyticalrohit">
+    <img src="./assets/topmate_logo.png" alt="Topmate">
+  </a>
+</p>
 
 <h3 align="left">📬 Newsletter</h3>
 
