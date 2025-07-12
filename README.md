@@ -2,20 +2,7 @@
 
 <h1 align="center">Hi, I'm Rohit👋</h1>
 
-🔭 A Senior Data Scientist with a decade of experience.  
-🌱 AI/ML expert for Telecom, Aerospace, Food Safety & Automotive industries.  
-⚡ I specialize in building NLP and Computer Vision solutions.  
-
-<h3 align="left">🚀 What I Do</h3>
-
-🤖 Machine Learning / Deep Learning  
-🧠 Natural Language Processing (NLP)  
-✨ Generative AI, LLMs, and Agents  
-📸 Computer Vision 
-
-<h3 align="left">🌐 Socials</h3>
-
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/analyticalrohit" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -32,6 +19,17 @@
     <img src="./assets/topmate_logo.png" alt="Topmate">
   </a>
 </p>
+
+🔭 A Senior Data Scientist with a decade of experience.
+🌱 AI/ML expert for Telecom, Aerospace, Food Safety & Automotive industries.
+⚡ I specialize in building NLP and Computer Vision solutions.
+
+<h3 align="left">🚀 What I Do</h3>
+
+🤖 Machine Learning / Deep Learning
+🧠 Natural Language Processing (NLP)
+✨ Generative AI, LLMs, and Agents
+📸 Computer Vision
 
 <h3 align="left">📬 Newsletter</h3>
 
@@ -57,12 +55,15 @@
 </p>
 
 <h3 align="left">📊 GitHub Stats</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=analyticalrohit&show_icons=true&theme=radical" alt="analyticalrohit"/></p>
 
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api?username=analyticalrohit&show_icons=true&theme=radical" style="text-decoration:none;">
+    <img src="https://github-readme-stats.vercel.app/api?username=analyticalrohit&show_icons=true&theme=radical" alt="analyticalrohit">
+  </a>
+</p>
 
 <p align="left">
    <img src="./assets/contribution_grid_snake.svg" alt="snake">
 </p>
 
-![GitHub Visitors](https://komarev.com/ghpvc/?username=analyticalrohit)
-![GitHub Followers](https://img.shields.io/github/followers/analyticalrohit?label=followers&logo=Github)
+![GitHub Visitors](https://komarev.com/ghpvc/?username=analyticalrohit) ![GitHub Followers](https://img.shields.io/github/followers/analyticalrohit?label=followers&logo=Github)
