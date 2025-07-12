@@ -16,20 +16,19 @@
 <h3 align="left">🌐 Socials</h3>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/analyticalrohit">
+  <a href="https://www.linkedin.com/in/analyticalrohit" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://awesomeneuron.substack.com/">
+  <a href="https://awesomeneuron.substack.com/" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719" alt="Substack">
   </a>
-   <a href="https://x.com/_rohit_tiwari_">
+   <a href="https://x.com/_rohit_tiwari_" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
   </a>
-     <a href="https://www.youtube.com/@awesomeneuron?sub_confirmation=1">
+     <a href="https://www.youtube.com/@awesomeneuron?sub_confirmation=1" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube">
   </a>
-    </a>
-     <a href="https://topmate.io/analyticalrohit">
+     <a href="https://topmate.io/analyticalrohit" style="text-decoration:none;">
     <img src="./assets/topmate_logo.png" alt="Topmate">
   </a>
 </p>
