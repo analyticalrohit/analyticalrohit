@@ -34,7 +34,7 @@
 <h3 align="left">📬 Newsletter</h3>
 
 <div style="text-align: left;">
-📌 Join 2000+ ML enthusiasts and professionals from 100 countries.<br>
+📌 Join 3000+ ML enthusiasts and professionals from 100 countries.<br>
 ✅ Learn AI for FREE with visuals, easy-to-follow insights.<br>
 ✅ Get cutting-edge topics like GenAI, RAGs, and LLMs in your inbox every week.
 </div>
