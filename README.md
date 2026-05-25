@@ -22,7 +22,7 @@
 
 🔭 A Senior Data Scientist with a decade of experience.  
 🌱 AI/ML expert for Telecom, Aerospace, Food Safety & Automotive industries.  
-⚡ I specialize in building NLP and Computer Vision solutions.  
+⚡ I specialize in building GenAI, NLP and Computer Vision solutions.
 
 <h3 align="left">🚀 What I Do</h3>
 
@@ -57,13 +57,11 @@
 <h3 align="left">📊 GitHub Stats</h3>
 
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=analyticalrohit&show_icons=true&theme=radical" style="text-decoration:none;">
-    <img src="https://github-readme-stats.vercel.app/api?username=analyticalrohit&show_icons=true&theme=radical" alt="analyticalrohit">
-  </a>
+    <img src="https://ghstats.dev/api/card?username=analyticalrohit&theme=radical&show_ring=false&hide_border=true&border_radius=50&hide=active_day%2Cavg%2Cstreak%2Cgrade%2Cweek%2Ctrend" alt="GitHub Stats Card" />
 </p>
 
 <p align="left">
    <img src="./assets/contribution_grid_snake.svg" alt="snake">
 </p>
 
-![GitHub Visitors](https://komarev.com/ghpvc/?username=analyticalrohit) ![GitHub Followers](https://img.shields.io/github/followers/analyticalrohit?label=followers&logo=Github)
+![GitHub Visitors](https://komarev.com/ghpvc/?username=analyticalrohit) ![GitHub Followers](https://img.shields.io/github/followers/analyticalrohit?label=followers&logo=Github) ![GitHub Stars](https://ghstats.dev/api/mini?username=octocat&theme=midnight&color=%230F81C2)
