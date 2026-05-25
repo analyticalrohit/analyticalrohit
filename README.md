@@ -26,9 +26,9 @@
 
 <h3 align="left">🚀 What I Do</h3>
 
-🤖 Machine Learning / Deep Learning  
-🧠 Natural Language Processing (NLP)  
-✨ Generative AI, LLMs, and Agents  
+🤖 Machine Learning / Deep Learning
+✨ Generative AI, LLMs, and Agents
+🧠 Natural Language Processing (NLP)
 📸 Computer Vision 
 
 <h3 align="left">📬 Newsletter</h3>
