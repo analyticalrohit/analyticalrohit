@@ -64,4 +64,4 @@
    <img src="./assets/contribution_grid_snake.svg" alt="snake">
 </p>
 
-![GitHub Visitors](https://komarev.com/ghpvc/?username=analyticalrohit) ![GitHub Followers](https://img.shields.io/github/followers/analyticalrohit?label=followers&logo=Github) ![GitHub Stars](https://ghstats.dev/api/mini?username=octocat&theme=midnight&color=%230F81C2)
+![GitHub Visitors](https://komarev.com/ghpvc/?username=analyticalrohit) ![GitHub Followers](https://img.shields.io/github/followers/analyticalrohit?label=followers&logo=Github) ![GitHub Stars](https://ghstats.dev/api/mini?username=analyticalrohit&theme=midnight&color=%230F81C2)
